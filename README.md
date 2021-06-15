@@ -1,2 +1,2 @@
 # Regression
-Python implementation of  popular regression techniques.
+Python implementation of  simple linear regression for salary prediction on a small dataset.
